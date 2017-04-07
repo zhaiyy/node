@@ -1,0 +1,8 @@
+*~
+*.swp
+*.py[cod]
+*.swo
+*.pyc
+config/*
+node_modules/*
+.idea/*
